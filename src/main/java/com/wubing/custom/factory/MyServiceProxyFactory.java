@@ -1,4 +1,4 @@
-package com.wubing.custom.supprot.factory;
+package com.wubing.custom.factory;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;

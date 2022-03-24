@@ -1,7 +1,7 @@
 package com.wubing.custom.annotation;
 
-import com.wubing.custom.processor.MyAutowiredAnnotationBeanPostProcessor;
-import com.wubing.custom.registrar.MyServiceScannerRegistry;
+import com.wubing.custom.support.MyAutowiredAnnotationBeanPostProcessor;
+import com.wubing.custom.support.MyServiceScannerRegistry;
 import org.springframework.context.annotation.Import;
 
 import java.lang.annotation.ElementType;

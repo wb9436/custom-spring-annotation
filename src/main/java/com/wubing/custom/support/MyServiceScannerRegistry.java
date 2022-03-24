@@ -1,9 +1,8 @@
-package com.wubing.custom.registrar;
+package com.wubing.custom.support;
 
 import com.wubing.custom.annotation.EnableMyAnnotation;
 import com.wubing.custom.annotation.MyAutowired;
 import com.wubing.custom.annotation.MyService;
-import com.wubing.custom.supprot.factory.MyServiceFactoryBean;
 import com.wubing.custom.util.BeanUtils;
 import com.wubing.custom.util.PathConverter;
 import org.springframework.beans.factory.config.BeanDefinition;

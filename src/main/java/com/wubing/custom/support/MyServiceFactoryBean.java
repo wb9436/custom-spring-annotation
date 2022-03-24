@@ -1,5 +1,6 @@
-package com.wubing.custom.supprot.factory;
+package com.wubing.custom.support;
 
+import com.wubing.custom.factory.MyServiceProxyFactory;
 import org.springframework.beans.factory.FactoryBean;
 
 /**

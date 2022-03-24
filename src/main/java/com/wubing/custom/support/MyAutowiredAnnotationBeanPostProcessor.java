@@ -1,4 +1,4 @@
-package com.wubing.custom.processor;
+package com.wubing.custom.support;
 
 import com.wubing.custom.annotation.MyAutowired;
 import org.springframework.beans.BeansException;
